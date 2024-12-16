@@ -84,28 +84,6 @@ Modify `config.py` to adjust:
 4. Bots make trading decisions based on predefined strategies
 5. Trading activities are logged in real-time
 
-## Potential Improvements
 
-- Implement more sophisticated trading algorithms
-- Add persistent storage for trading positions
-- Create more advanced market data generation
-- Implement more complex risk management strategies
-- Add support for more complex financial instruments
 
-## Limitations
 
-- This is a simplified simulation and does not represent actual market conditions
-- Trading strategies are basic and should not be used for real trading
-- No real financial transactions occur
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Specify your license here, e.g., MIT License]
-
-## Disclaimer
-
-This project is for educational purposes only. Do not use these trading strategies or simulation for actual financial trading.
